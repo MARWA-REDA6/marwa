@@ -1,0 +1,12 @@
+
+
+.navbar{
+    border-bottom: 5px solid rgba(88, 5, 5, 0.945);
+    opacity: .7;
+}
+header{
+     min-height: 100vh ;
+     background-image:linear-gradient( rgba(0,0,0,.6 ) ,rgba(0,0,0,.6 )) , url(../images/decor.jpg) ;
+     background-position: center;
+     background-size: 700px;
+}
